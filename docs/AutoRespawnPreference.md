@@ -1,6 +1,6 @@
-<h1 align="center">✨ My Unturned Plugins ✨</h1>
+<h1 align="center">✨ Auto Respawn Preference ✨</h1>
 
-<h6 align="center"><em>Collection of most of my Unturned Plugins</em></h6>
+<h6 align="center"><em>Simple plugin to avoid the respawn menu screen.</em></h6>
 
 ## 📝 Overview
 More customizable version of my [AutoRespawn](./AutoRespawn.md) plugin.
