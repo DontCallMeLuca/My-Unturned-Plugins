@@ -23,5 +23,8 @@ Where each player can manually turn on/off the auto respawning feature. It's on 
 - `password`: `""`
 - `port`: `"3306"`
 
+## 🔎 Commands
+- `/autorespawn` - Toggles auto respawn functionality on/off
+
 ## 💾 Grab a copy
 You can find the the compiled dll here: [AutoRespawnPreference.dll](../Plugins/AutoRespawnPreference/bin/AutoRespawnPreference.dll)

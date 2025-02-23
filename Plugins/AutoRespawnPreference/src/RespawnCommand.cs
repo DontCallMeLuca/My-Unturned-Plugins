@@ -17,7 +17,7 @@ namespace AutoRespawnPlugin
 
         public string Help => "Toggles the auto respawn feature";
 
-        public string Syntax => $"/{Name} ?bool";
+        public string Syntax => $"/{Name}";
 
         public List<string> Aliases => new List<string>();
 
