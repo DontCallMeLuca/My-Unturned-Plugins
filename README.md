@@ -59,8 +59,9 @@ and a bin directory for the compiled plugin.
 - [AutoRespawnPreference](./docs/AutoRespawnPreference.md)
 - [BetterSpawns](./docs/BetterSpawns.md)
 - [BetterTeleport](./docs/BetterTeleport.md)
+- [CollateralKills](./docs/CollateralKills.md)
 
-## Conventions
+## 💭 Conventions
 
 Commands' arguments are specified using the following syntax:
 
@@ -155,6 +156,15 @@ so there's a good chance they'll still work, but please don't be surprised if th
 I will also not be posting modules here, because my modules are usually too big and deserve their own repository.
 <br><br>
 Some plugins are very old. So my conventions might not always be the same, though generally they should be.
+
+## ✅ Special Thanks
+
+I want to give recognition to the following people, without them, I wouldn't have gotten here.
+
+- [Nelson](https://github.com/SDGNelson) for giving me a game I love so much and enjoyed so much working on, and the extensive support.
+- [Sunbeam](https://github.com/sunbeam9) for helping me with the basics: Learning C# and working with Unturned.
+- [Trojaner](https://github.com/Trojaner) for making RocketMod & OpenMod, and the community behind Unturned plugin development.
+- [BlazingFlame](https://github.com/DanielWillett) for always being extremely helpful and resourceful whenever I got stuck.
 
 ## ✨ Future Changes
 
