@@ -21,7 +21,7 @@ still use RocketMod.
 - [RocketMod](https://github.com/RocketMod/Rocket)
 - [UnityEngine](https://learn.unity.com/)
 
-###### For learning resources, see the [learning](#📚-learning-resources) section
+###### For learning resources, see the [learning](#-learning-resources) section
 
 ## 📂 Directory structure
 
