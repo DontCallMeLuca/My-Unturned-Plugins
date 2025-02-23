@@ -33,7 +33,7 @@ docs/
 │   └── Docs.md
 ├──Plugin_2/
 │   └── Docs.md
-src/
+Plugins/
 ├── Plugin_1/
 │   ├── src/
 │   │   ├── source_1.cs
@@ -55,6 +55,8 @@ Each plugin has a given src directory with the source code,
 and a bin directory for the compiled plugin.
 
 ## 🛠️ Plugins
+- [AutoRespawn](./docs/AutoRespawn.md)
+- [AutoRespawnPreference](./docs//AutoRespawnPreference.md)
 
 ## 📚 Learning Resources
 

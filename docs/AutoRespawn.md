@@ -10,8 +10,14 @@ Mainly thought for pvp and sandbox servers, where respawning occurs frequently,
 and this could be a significant quality of life change.
 
 ## ⚙ Configuration
+
+### Fields
 - `bool IsEnabled` - Simple switch to turn it on/off
-- `bool RespawnAtHome` - Switch to automatically respawn at home, or use the regular spawning logic
+- `bool RespawnAtHome` - Switch to automatically respawn at home
+
+### Default
+- `IsEnabled`: `true`
+- `RespawnAtHome`: `false`
 
 ## 💾 Grab a copy
-You can find the the compiled dll here: [AutoRespawn.dll](../AutoRespawn/bin/AutoRespawn.dll)
+You can find the the compiled dll here: [AutoRespawn.dll](../Plugins/AutoRespawn/bin/AutoRespawn.dll)
