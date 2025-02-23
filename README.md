@@ -60,6 +60,7 @@ and a bin directory for the compiled plugin.
 - [BetterSpawns](./docs/BetterSpawns.md)
 - [BetterTeleport](./docs/BetterTeleport.md)
 - [CollateralKills](./docs/CollateralKills.md)
+- [DaylightCycleHandler](./docs/DaylightCycleHandler.md)
 
 ## 💭 Conventions
 
