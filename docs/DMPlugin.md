@@ -8,10 +8,6 @@ A player can disable incoming dms, block a specific user from sending dms and of
 <br>
 Please note, this is one of the older plugins, it was made with [LiteDB](https://www.litedb.org/), which is a NoSql lightweight database. Its only use is to store player preferences (blocklist etc.). It works, but it might not be very scalable for large servers.
 
-## ⚙ Configuration
-
-**NO CONFIG**
-
 ## 🔎 Commands
 - `/dm <player> <message>` - Dm a player
 - `/block <player>` - Blocks a player from dming you

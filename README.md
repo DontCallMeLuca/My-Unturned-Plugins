@@ -62,6 +62,7 @@ and a bin directory for the compiled plugin.
 - [CollateralKills](./docs/CollateralKills.md)
 - [DaylightCycleHandler](./docs/DaylightCycleHandler.md)
 - [DMPlugin](./docs/DMPlugin.md)
+- [DrugsPlugin](./docs/DrugsPlugin.md)
 
 ## 💭 Conventions
 
