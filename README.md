@@ -163,7 +163,7 @@ Some plugins are very old. So my conventions might not always be the same, thoug
 
 I want to give recognition to the following people, without them, I wouldn't have gotten here.
 
-- [Nelson](https://github.com/SDGNelson) for giving me a game I love so much and enjoyed so much working on, and the extensive support.
+- [Nelson](https://github.com/SDGNelson) for giving me a game I love, and the extensive support.
 - [Sunbeam](https://github.com/sunbeam9) for helping me with the basics: Learning C# and working with Unturned.
 - [Trojaner](https://github.com/Trojaner) for making RocketMod & OpenMod, and the community behind Unturned plugin development.
 - [BlazingFlame](https://github.com/DanielWillett) for always being extremely helpful and resourceful whenever I got stuck.
