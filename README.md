@@ -56,7 +56,47 @@ and a bin directory for the compiled plugin.
 
 ## 🛠️ Plugins
 - [AutoRespawn](./docs/AutoRespawn.md)
-- [AutoRespawnPreference](./docs//AutoRespawnPreference.md)
+- [AutoRespawnPreference](./docs/AutoRespawnPreference.md)
+- [BetterSpawns](./docs/BetterSpawns.md)
+- [BetterTeleport](./docs/BetterTeleport.md)
+
+## Conventions
+
+Commands' arguments are specified using the following syntax:
+
+```html
+/command <arg1> <arg2>
+```
+
+Optional arguments will have a question mark infront of them:
+
+```html
+/command ?<arg>
+```
+
+Further expanding on this, options for an argument are separated as follows:
+
+```html
+/command <option1?option2?option3>
+```
+
+Some older plugins might specify the expected argument type:
+
+```html
+/command <arg:bool>
+```
+
+If all the remaining arguments are optional, you might see something like:
+
+```html
+/command ? <arg1> <arg2> <arg3>
+```
+
+So don't be scared if you see something like:
+
+```html
+/command <arg1:int> ? <option1?option2:bool> <arg3>
+```
 
 ## 📚 Learning Resources
 
@@ -113,6 +153,8 @@ Nelson (the developer behind unturned) has put tons of efforts into backwards co
 so there's a good chance they'll still work, but please don't be surprised if they don't anymore.
 <br><br>
 I will also not be posting modules here, because my modules are usually too big and deserve their own repository.
+<br><br>
+Some plugins are very old. So my conventions might not always be the same, though generally they should be.
 
 ## ✨ Future Changes
 
