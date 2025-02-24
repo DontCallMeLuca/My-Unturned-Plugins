@@ -63,6 +63,7 @@ and a bin directory for the compiled plugin.
 - [DaylightCycleHandler](./docs/DaylightCycleHandler.md)
 - [DMPlugin](./docs/DMPlugin.md)
 - [DrugsPlugin](./docs/DrugsPlugin.md)
+- [EquppedCooldown](./docs/EquippedCooldown.md)
 
 ## 💭 Conventions
 
