@@ -65,6 +65,7 @@ and a bin directory for the compiled plugin.
 - [DrugsPlugin](./docs/DrugsPlugin.md)
 - [EquppedCooldown](./docs/EquippedCooldown.md)
 - [FallDamageManager](./docs/FallDamageManager.md)
+- [HelpPlugin](./docs/HelpPlugin.md)
 
 ## 💭 Conventions
 
