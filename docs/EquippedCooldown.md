@@ -10,10 +10,7 @@ Meaning, an item such as a grenade can only be throw every x seconds.
 Please note that this is a very, VERY, old plugin, so the code is quite bad.
 
 ## ⚙ Configuration
-        public bool DebugMode { get; set; }
 
-        [XmlArrayItem(ElementName = "Throwable")]
-        public List<ThrowableCooldown> ItemCooldowns { get; set; }
 ### Fields
 - `bool DebugMode` - Toggle if debugging, will print extra messages if true.
 - `List<ThrowableCooldown> ItemCooldowns` - List of configurable cooldowns.
