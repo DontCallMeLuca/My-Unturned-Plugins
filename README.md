@@ -15,6 +15,18 @@ While OpenMod improves on RocketMod on virtually everything,
 the plugins here are all still RocketMod, because most servers
 still use RocketMod.
 
+## ⚠️ Disclaimer
+
+#### Not all plugins have been uploaded yet!
+
+Please note that the plugins aren't actively maintained.
+<br>
+Nelson (the developer behind unturned) has put tons of efforts into backwards compatibility,
+<br>
+so there's a good chance they'll still work, but please don't be surprised if they don't anymore.
+<br><br>
+Some plugins are very old. So my conventions might not always be the same, though generally they should be.
+
 ## 🌐 External Resources
 
 - [Unturned](https://store.steampowered.com/app/304930/Unturned/)
@@ -150,32 +162,6 @@ The most commonly used database in this context is MariaDB/MySql. Its simple and
 For example, when working on a basic kits plugin, you could store all the kit data in the plugin's config xml file.
 This is ineffective and not very portable, so a common and better implementation is to use a database.
 You can find the MySql library for C# using NuGet (the C# .NET package manager).
-
-## ⚠️ Disclaimer
-
-Please note that the plugins aren't actively maintained.
-<br>
-Nelson (the developer behind unturned) has put tons of efforts into backwards compatibility,
-<br>
-so there's a good chance they'll still work, but please don't be surprised if they don't anymore.
-<br><br>
-I will also not be posting modules here, because my modules are usually too big and deserve their own repository.
-<br><br>
-Some plugins are very old. So my conventions might not always be the same, though generally they should be.
-
-## ✅ Special Thanks
-
-I want to give recognition to the following people, without them, I wouldn't have gotten here.
-
-- [Nelson](https://github.com/SDGNelson) for giving me a game I love, and the extensive support.
-- [Sunbeam](https://github.com/sunbeam9) for helping me with the basics: Learning C# and working with Unturned.
-- [Trojaner](https://github.com/Trojaner) for making RocketMod & OpenMod, and the community behind Unturned plugin development.
-- [BlazingFlame](https://github.com/DanielWillett) for always being extremely helpful and resourceful whenever I got stuck.
-
-## ✨ Future Changes
-
-- Expand on the plugin collection
-- Possible openmod adaptations
 
 ## 📃 License
 This project uses the `GNU GENERAL PUBLIC LICENSE v3.0` license
